@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859375987923",
+    "project_id": "sim-1e2f8",
+    "storage_bucket": "sim-1e2f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859375987923:android:9e06c2545ae9334411f826",
+        "android_client_info": {
+          "package_name": "com.example.simstockinventrymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859375987923-9ibsk0j3n7csrmnel469cfiudpfklrqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLk-J8bIVHToxuCYqyh5zKiNO5lQXLcn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859375987923-9ibsk0j3n7csrmnel469cfiudpfklrqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
